@@ -1,7 +1,7 @@
 # Copyright 2024 Daniel Miho
 # https://github.com/dubbie/zkm-config-velma36
 
-outboard_repository=dubbie/zkm-config-velma36
+outboard_repository=dubbie/zmk-config-velma36
 outboard_ref=master
 outboard_from=/
 outboard_to=boards/shields/velma36
